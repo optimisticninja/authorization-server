@@ -16,6 +16,7 @@ require (
 	github.com/golang/mock v1.6.0 // indirect
 	github.com/google/pprof v0.0.0-20231101202521-4ca4178f5c7a // indirect
 	github.com/google/uuid v1.4.0 // indirect
+	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/onsi/ginkgo/v2 v2.13.1 // indirect
 	github.com/optimisticninja/osin v0.0.0-20231124143627-185b84d070aa // indirect
 	github.com/optimisticninja/osin-postgres v0.0.0-20231124144400-49503b872d88 // indirect
